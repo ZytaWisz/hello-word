@@ -4,7 +4,7 @@ public class Temperature {
     public static void main(String[] args) {
         Temperature temperature=new Temperature();
         System.out.println(temperature.isPositive(1));
-        System.out.println(temperature.isPositive(-1));
+        System.out.println(temperature.isPositive(-2));
 
         System.out.println(Temperature.isPositive1(4));
 
