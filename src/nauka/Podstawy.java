@@ -23,6 +23,7 @@ public class Podstawy {
         System.out.println(name+" jest "+cecha);
         cecha="boski";
         System.out.println(name+" jest "+cecha);
+        System.out.println(cecha+" jest fajna");
 
 
     }
